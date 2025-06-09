@@ -1,0 +1,25 @@
+# === Python / FastAPI backend ===
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+.env
+.env.*
+
+# === Node.js / React frontend ===
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+
+# === VS Code / OS junk ===
+*.swp
+*.swo
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === Docker ===
+**/__pycache__/
+**/*.pyc
+docker-compose.override.yml

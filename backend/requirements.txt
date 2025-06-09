@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+psycopg2-binary
+yagmail
+scikit-learn
+pydantic
+python-multipart
+keyring
