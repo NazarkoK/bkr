@@ -4,8 +4,8 @@
 
 > ✅ Requirements: Docker & Docker Compose
 
-`git clone https://github.com/your-username/anomaly-detector.git`
-`cd anomaly-detector`
+`git clone https://github.com/NazarkoK/bkr.git`
+`cd bkr`
 `docker-compose up --build`
 `Frontend available at: http://localhost:3000`
 
